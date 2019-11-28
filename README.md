@@ -12,7 +12,7 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useBeforeLeave: A function executes before mouse leaves the page.
 - [x] useFadeIn: Fade in animation to element
 - [x] useNetwork: A user is online or offline
-- [ ] useFullscreen: Any element goes to a full screen and go back to normal
+- [x] useScroll: Detect scrolling
+- [x] useFullscreen: Any element goes to a full screen and go back to normal
 - [ ] useNotification: 
-- [ ] useScroll: Detect scrolling
 - [ ] useAxios: HTTP request client axios
