@@ -9,7 +9,7 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useHover
 - [x] useConfirm
 - [x] usePreventLeave: When a user wants to leave a page, when he/she didn't save..
-- [ ] usePageLeave
+- [x] useBeforeLeave: A function executes before mouse leaves the page.
 - [ ] useFadeIn: Fade in animation to element
 - [ ] useFullscreen: Any element goes to a full screen and go back to normal
 - [ ] useNetwork: A user is online or offline
